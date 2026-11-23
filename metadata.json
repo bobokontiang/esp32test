@@ -1,0 +1,6 @@
+{
+  "name": "BuzzerLab S3",
+  "description": "แปลงไฟล์เสียงและคลิปเป็นโน้ตเพลงสำหรับ ESP32-S3 N16R8 พร้อมระบบควบคุมออนไลน์แบบ Real-time ผ่าน WebSocket และคู่มือสอนทำตั้งแต่เริ่มต้น",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
